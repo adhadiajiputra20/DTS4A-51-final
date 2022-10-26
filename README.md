@@ -4,7 +4,7 @@ Ketentuan lengkap bisa dilihat di [Final Project Guidelines](https://docs.google
 
 ## link live web app
 
-https://dts4a-51-final.vercel.app/
+gagal devlop (code bekerja dengan baik)
 
 ## preview
 
