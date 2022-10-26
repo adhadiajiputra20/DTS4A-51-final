@@ -2,18 +2,24 @@
 
 Ketentuan lengkap bisa dilihat di [Final Project Guidelines](https://docs.google.com/document/d/122KyWNQ4xxU4aFwWbM4vIfH7LM4AH2CZEZa3YsEHjCk). 
 
-## Daftar pair
+## link live web app
 
-Tugas dikerjakan secara berpasangan, untuk daftar kelompok bisa dilihat pada masing-masing Classroom atau Discord Class.
+https://dts4a-51-final.vercel.app/
 
-## Fork and Clone
+## preview
 
-Mohon perwakilan dari pair bisa melakukan fork repo ini dan clone, untuk repositori yang di fork menggunakan penamaan:
+https://gfycat.com/honoredscholarlyjaguar
 
-`dts4[a/b/c]-[nomor pair]-final`
+## fitur
+ 1. registrasi
+ 2. login
+ 3. logout
+ 4. halaman utama
+ 5. fitur unik (search)
 
-Contoh: `dts4a-01-final`
+##
 
-## Branching, commit
+1. tailwind
+2. firebase auth
+3. state management
 
-Branch dapat sesuai dengan kebutuhan dan kesepakatan bersama dalam pair, namun hasil akhirnya harus di merge ke branch `main` dan di push ke Github. Pastikan hasil akhir kode sudah ter-push!
